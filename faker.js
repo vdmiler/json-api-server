@@ -5,7 +5,7 @@ const generateDataFile = (number) => {
    for (let i = 0; i < number; i++) {
       results.push({
          id: i,
-         photo: faker.image.cats(),
+         photo: `${faker.image.avatar()}?random=${Date.now()}`,
          first_name: faker.name.firstName(),
          birthday: faker.date.past(),
          desiredposition: faker.name.jobTitle(),
