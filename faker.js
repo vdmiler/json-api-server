@@ -1,11 +1,11 @@
-const faker = require("faker/locale/uk");
+const faker = require("faker/locale/ru");
 const fs = require("fs");
 const generateDataFile = (number) => {
    const results = [];
    for (let i = 0; i < number; i++) {
       results.push({
          id: i,
-         photo: faker.image.avatar(),
+         photo: faker.image.cats(),
          first_name: faker.name.firstName(),
          birthday: faker.date.past(),
          desiredposition: faker.name.jobTitle(),
