@@ -2,362 +2,362 @@
   "results": [
     {
       "id": 0,
-      "photo": "https://cdn.fakercloud.com/avatars/borges_marcos_128.jpg?random=1640948884355",
-      "first_name": "Jacinthe",
-      "birthday": "2021-01-21T19:04:49.280Z",
-      "desiredposition": "Региональный оптимизационный разработчик",
-      "work_city": "Ульяновск",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Стрелков Торг",
-          "date_from": "2021-01-20T08:57:53.833Z",
-          "date_to": "2022-01-01T02:52:04.309Z"
-        }
-      ],
-      "updated_at": "2022-01-01T03:12:12.950Z",
-      "selected": false
-    },
-    {
-      "id": 1,
-      "photo": "https://cdn.fakercloud.com/avatars/adellecharles_128.jpg?random=1640948884359",
-      "first_name": "Tremaine",
-      "birthday": "2021-10-09T20:00:12.344Z",
-      "desiredposition": "Глобальный логистический дизайнер",
-      "work_city": "Владивосток",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Третьяков Пром",
-          "date_from": "2021-01-03T03:57:41.824Z",
-          "date_to": "2022-01-01T08:23:22.496Z"
-        }
-      ],
-      "updated_at": "2021-12-31T12:48:51.985Z",
-      "selected": false
-    },
-    {
-      "id": 2,
-      "photo": "https://cdn.fakercloud.com/avatars/guillemboti_128.jpg?random=1640948884359",
-      "first_name": "Cassandra",
-      "birthday": "2021-09-05T23:28:51.395Z",
-      "desiredposition": "Региональный интеграционный специалист",
-      "work_city": "Уфа",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Бобылев, Никитин and Киселева",
-          "date_from": "2021-06-17T14:57:21.831Z",
-          "date_to": "2022-01-01T10:51:06.162Z"
-        }
-      ],
-      "updated_at": "2022-01-01T07:31:09.325Z",
-      "selected": false
-    },
-    {
-      "id": 3,
-      "photo": "https://cdn.fakercloud.com/avatars/michaelcolenso_128.jpg?random=1640948884359",
-      "first_name": "Delphine",
-      "birthday": "2021-11-29T00:28:36.921Z",
-      "desiredposition": "Районный оптимизационный архитектор",
-      "work_city": "Махачкала",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Куликов, Фролов and Цветков",
-          "date_from": "2021-12-09T05:29:58.674Z",
-          "date_to": "2021-12-31T12:40:20.821Z"
-        }
-      ],
-      "updated_at": "2022-01-01T03:47:06.377Z",
-      "selected": false
-    },
-    {
-      "id": 4,
-      "photo": "https://cdn.fakercloud.com/avatars/_victa_128.jpg?random=1640948884360",
-      "first_name": "Dixie",
-      "birthday": "2021-04-02T08:27:32.527Z",
-      "desiredposition": "Центральный операционный специалист",
-      "work_city": "Липецк",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Шестакова, Моисеев and Андреева",
-          "date_from": "2021-07-24T10:56:37.953Z",
-          "date_to": "2021-12-31T23:20:35.727Z"
-        }
-      ],
-      "updated_at": "2022-01-01T07:50:17.410Z",
-      "selected": false
-    },
-    {
-      "id": 5,
-      "photo": "https://cdn.fakercloud.com/avatars/fran_mchamy_128.jpg?random=1640948884360",
-      "first_name": "Erling",
-      "birthday": "2021-05-21T20:37:59.324Z",
-      "desiredposition": "Районный операционный инженер",
-      "work_city": "Волгоград",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Медведев Сбыт",
-          "date_from": "2021-06-25T09:00:25.814Z",
-          "date_to": "2022-01-01T07:03:04.390Z"
-        }
-      ],
-      "updated_at": "2022-01-01T08:12:03.218Z",
-      "selected": false
-    },
-    {
-      "id": 6,
-      "photo": "https://cdn.fakercloud.com/avatars/funwatercat_128.jpg?random=1640948884360",
-      "first_name": "Hallie",
-      "birthday": "2021-05-06T16:56:12.550Z",
-      "desiredposition": "Ведущий операционный руководитель",
-      "work_city": "Ульяновск",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Потапова - Сафонов",
-          "date_from": "2021-08-08T12:45:08.157Z",
-          "date_to": "2021-12-31T16:24:00.173Z"
-        }
-      ],
-      "updated_at": "2021-12-31T21:39:57.506Z",
-      "selected": false
-    },
-    {
-      "id": 7,
-      "photo": "https://cdn.fakercloud.com/avatars/ajaxy_ru_128.jpg?random=1640948884360",
-      "first_name": "Leopold",
-      "birthday": "2021-03-09T20:30:45.793Z",
-      "desiredposition": "Региональный страховой помощник",
-      "work_city": "Кемерово",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Дмитриев Торг",
-          "date_from": "2021-12-05T05:50:30.168Z",
-          "date_to": "2021-12-31T16:52:59.434Z"
-        }
-      ],
-      "updated_at": "2021-12-31T13:55:38.109Z",
-      "selected": false
-    },
-    {
-      "id": 8,
-      "photo": "https://cdn.fakercloud.com/avatars/craighenneberry_128.jpg?random=1640948884360",
-      "first_name": "Randi",
-      "birthday": "2021-04-26T21:22:54.776Z",
-      "desiredposition": "Глобальный маркетинговый помощник",
+      "photo": "https://i.pravatar.cc/150?img=17",
+      "first_name": "Helena",
+      "birthday": "2021-12-22T15:31:41.117Z",
+      "desiredposition": "Глобальный коммуникационный инженер",
       "work_city": "Ярославль",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Жданов Пром",
-          "date_from": "2021-06-11T00:31:42.927Z",
-          "date_to": "2021-12-31T21:02:09.157Z"
+          "company_name": "Филатова Сбыт",
+          "date_from": "2021-08-21T07:08:34.802Z",
+          "date_to": "2022-01-02T15:55:47.096Z"
         }
       ],
-      "updated_at": "2022-01-01T06:25:10.886Z",
+      "updated_at": "2022-01-03T09:11:01.955Z",
       "selected": false
     },
     {
-      "id": 9,
-      "photo": "https://cdn.fakercloud.com/avatars/loganjlambert_128.jpg?random=1640948884361",
-      "first_name": "Samantha",
-      "birthday": "2021-08-05T05:23:32.102Z",
-      "desiredposition": "Главный интеграционный помощник",
-      "work_city": "Липецк",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Воронцова, Нестерова and Лапина",
-          "date_from": "2021-09-17T07:32:10.649Z",
-          "date_to": "2022-01-01T07:34:22.078Z"
-        }
-      ],
-      "updated_at": "2021-12-31T12:19:10.645Z",
-      "selected": false
-    },
-    {
-      "id": 10,
-      "photo": "https://cdn.fakercloud.com/avatars/silvanmuhlemann_128.jpg?random=1640948884361",
-      "first_name": "Freeman",
-      "birthday": "2021-07-22T01:16:13.812Z",
-      "desiredposition": "Областной маркетинговый дизайнер",
-      "work_city": "Иркутск",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Крюков, Блинов and Наумов",
-          "date_from": "2021-12-24T07:14:47.053Z",
-          "date_to": "2021-12-31T20:48:38.803Z"
-        }
-      ],
-      "updated_at": "2022-01-01T05:16:48.363Z",
-      "selected": false
-    },
-    {
-      "id": 11,
-      "photo": "https://cdn.fakercloud.com/avatars/vm_f_128.jpg?random=1640948884361",
-      "first_name": "Letitia",
-      "birthday": "2021-10-08T16:46:55.418Z",
-      "desiredposition": "Международный маркетинговый администратор",
+      "id": 1,
+      "photo": "https://i.pravatar.cc/150?img=16",
+      "first_name": "Maiya",
+      "birthday": "2021-10-31T05:31:25.985Z",
+      "desiredposition": "Центральный операционный разработчик",
       "work_city": "Махачкала",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Киселева - Куликов",
-          "date_from": "2021-01-02T19:18:26.672Z",
-          "date_to": "2021-12-31T22:50:23.231Z"
+          "company_name": "Кононова, Бобылев and Ковалева",
+          "date_from": "2021-12-06T11:01:50.420Z",
+          "date_to": "2022-01-03T03:43:24.386Z"
         }
       ],
-      "updated_at": "2022-01-01T07:20:11.783Z",
+      "updated_at": "2022-01-03T03:22:15.808Z",
       "selected": false
     },
     {
-      "id": 12,
-      "photo": "https://cdn.fakercloud.com/avatars/ddggccaa_128.jpg?random=1640948884361",
-      "first_name": "Jamie",
-      "birthday": "2021-02-06T21:39:37.430Z",
-      "desiredposition": "Генеральный страховой инженер",
-      "work_city": "Курск",
+      "id": 2,
+      "photo": "https://i.pravatar.cc/150?img=12",
+      "first_name": "Nicolette",
+      "birthday": "2021-10-06T12:52:16.193Z",
+      "desiredposition": "Ведущий операционный архитектор",
+      "work_city": "Саратов",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Макарова, Крылов and Блинов",
-          "date_from": "2021-10-29T13:59:40.864Z",
-          "date_to": "2022-01-01T07:28:02.281Z"
+          "company_name": "Соболева Трейд",
+          "date_from": "2021-01-10T19:47:20.544Z",
+          "date_to": "2022-01-02T23:48:54.685Z"
         }
       ],
-      "updated_at": "2022-01-01T01:35:42.232Z",
+      "updated_at": "2022-01-02T18:00:15.746Z",
       "selected": false
     },
     {
-      "id": 13,
-      "photo": "https://cdn.fakercloud.com/avatars/craigrcoles_128.jpg?random=1640948884361",
-      "first_name": "Teagan",
-      "birthday": "2021-01-01T23:24:46.860Z",
-      "desiredposition": "Международный логистический специалист",
-      "work_city": "Челябинск",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Колесникова, Баранова and Шашкова",
-          "date_from": "2021-02-07T17:56:44.610Z",
-          "date_to": "2022-01-01T04:51:14.540Z"
-        }
-      ],
-      "updated_at": "2021-12-31T16:48:28.200Z",
-      "selected": false
-    },
-    {
-      "id": 14,
-      "photo": "https://cdn.fakercloud.com/avatars/victorerixon_128.jpg?random=1640948884361",
-      "first_name": "Lavonne",
-      "birthday": "2021-11-07T01:45:28.008Z",
-      "desiredposition": "Международный страховой консультант",
-      "work_city": "Белгород",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Ширяев, Никифоров and Галкина",
-          "date_from": "2021-11-16T20:21:18.728Z",
-          "date_to": "2021-12-31T21:00:42.427Z"
-        }
-      ],
-      "updated_at": "2021-12-31T13:29:17.030Z",
-      "selected": false
-    },
-    {
-      "id": 15,
-      "photo": "https://cdn.fakercloud.com/avatars/_kkga_128.jpg?random=1640948884361",
-      "first_name": "Bonita",
-      "birthday": "2021-11-09T23:21:11.232Z",
-      "desiredposition": "Районный операционный менеджер",
-      "work_city": "Рязань",
-      "workexperience": [
-        {
-          "id": 1,
-          "company_name": "Игнатов, Алексеева and Мясникова",
-          "date_from": "2021-07-31T19:47:58.035Z",
-          "date_to": "2022-01-01T06:39:19.507Z"
-        }
-      ],
-      "updated_at": "2022-01-01T04:00:38.261Z",
-      "selected": false
-    },
-    {
-      "id": 16,
-      "photo": "https://cdn.fakercloud.com/avatars/atariboy_128.jpg?random=1640948884362",
-      "first_name": "Kelli",
-      "birthday": "2021-03-05T00:28:37.814Z",
-      "desiredposition": "Генеральный коммуникационный координатор",
+      "id": 3,
+      "photo": "https://i.pravatar.cc/150?img=8",
+      "first_name": "Monique",
+      "birthday": "2021-05-05T16:54:58.295Z",
+      "desiredposition": "Генеральный оптимизационный разработчик",
       "work_city": "Астрахань",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Евсеев Снаб",
-          "date_from": "2021-03-27T04:32:19.481Z",
-          "date_to": "2021-12-31T20:53:35.118Z"
+          "company_name": "Мухина, Константинов and Фокина",
+          "date_from": "2021-08-08T00:56:08.245Z",
+          "date_to": "2022-01-03T06:07:32.757Z"
         }
       ],
-      "updated_at": "2022-01-01T09:03:37.765Z",
+      "updated_at": "2022-01-02T18:32:40.821Z",
       "selected": false
     },
     {
-      "id": 17,
-      "photo": "https://cdn.fakercloud.com/avatars/lu4sh1i_128.jpg?random=1640948884362",
-      "first_name": "Markus",
-      "birthday": "2021-09-15T18:31:23.519Z",
-      "desiredposition": "Главный маркетинговый агент",
-      "work_city": "Рязань",
+      "id": 4,
+      "photo": "https://i.pravatar.cc/150?img=4",
+      "first_name": "Cristobal",
+      "birthday": "2021-08-29T19:33:16.805Z",
+      "desiredposition": "Районный маркетинговый техник",
+      "work_city": "Челябинск",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Дементьева Снаб",
-          "date_from": "2021-12-01T11:34:33.779Z",
-          "date_to": "2021-12-31T17:12:42.482Z"
+          "company_name": "Блохин - Костин",
+          "date_from": "2021-10-09T16:06:03.417Z",
+          "date_to": "2022-01-03T12:01:29.344Z"
         }
       ],
-      "updated_at": "2022-01-01T03:05:55.210Z",
+      "updated_at": "2022-01-02T18:41:42.789Z",
       "selected": false
     },
     {
-      "id": 18,
-      "photo": "https://cdn.fakercloud.com/avatars/runningskull_128.jpg?random=1640948884362",
-      "first_name": "Cordelia",
-      "birthday": "2021-10-31T19:11:19.673Z",
-      "desiredposition": "Районный страховой планировщик",
+      "id": 5,
+      "photo": "https://i.pravatar.cc/150?img=15",
+      "first_name": "Aniyah",
+      "birthday": "2021-04-24T23:46:06.188Z",
+      "desiredposition": "Главный страховой сотрудник",
+      "work_city": "Тольятти",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Данилов - Лазарева",
+          "date_from": "2021-07-18T09:08:37.710Z",
+          "date_to": "2022-01-03T06:59:16.598Z"
+        }
+      ],
+      "updated_at": "2022-01-03T06:13:28.885Z",
+      "selected": false
+    },
+    {
+      "id": 6,
+      "photo": "https://i.pravatar.cc/150?img=13",
+      "first_name": "Abigayle",
+      "birthday": "2021-11-06T07:41:21.815Z",
+      "desiredposition": "Центральный логистический менеджер",
+      "work_city": "Сочи",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Матвеева, Фомичев and Бурова",
+          "date_from": "2021-02-10T23:33:58.406Z",
+          "date_to": "2022-01-03T13:19:30.871Z"
+        }
+      ],
+      "updated_at": "2022-01-03T00:07:05.837Z",
+      "selected": false
+    },
+    {
+      "id": 7,
+      "photo": "https://i.pravatar.cc/150?img=4",
+      "first_name": "Demarco",
+      "birthday": "2021-04-18T00:27:27.260Z",
+      "desiredposition": "Районный функциональный администратор",
+      "work_city": "Липецк",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Бобылева, Селезнева and Пахомов",
+          "date_from": "2021-06-25T05:51:44.496Z",
+          "date_to": "2022-01-03T10:24:21.436Z"
+        }
+      ],
+      "updated_at": "2022-01-02T21:00:26.434Z",
+      "selected": false
+    },
+    {
+      "id": 8,
+      "photo": "https://i.pravatar.cc/150?img=19",
+      "first_name": "Felicity",
+      "birthday": "2021-04-28T07:24:40.966Z",
+      "desiredposition": "Главный оптимизационный аналитик",
       "work_city": "Новокузнецк",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Архипова - Одинцова",
-          "date_from": "2021-12-25T13:00:48.979Z",
-          "date_to": "2022-01-01T09:22:31.618Z"
+          "company_name": "Сысоев, Лобанова and Ершова",
+          "date_from": "2021-11-11T03:51:32.350Z",
+          "date_to": "2022-01-02T16:31:54.208Z"
         }
       ],
-      "updated_at": "2021-12-31T12:48:26.633Z",
+      "updated_at": "2022-01-03T11:15:05.728Z",
+      "selected": false
+    },
+    {
+      "id": 9,
+      "photo": "https://i.pravatar.cc/150?img=17",
+      "first_name": "Caroline",
+      "birthday": "2021-08-15T09:13:09.307Z",
+      "desiredposition": "Генеральный операционный разработчик",
+      "work_city": "Пермь",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Ефимов Пром",
+          "date_from": "2021-03-19T16:59:22.612Z",
+          "date_to": "2022-01-03T02:51:47.304Z"
+        }
+      ],
+      "updated_at": "2022-01-02T21:41:14.916Z",
+      "selected": false
+    },
+    {
+      "id": 10,
+      "photo": "https://i.pravatar.cc/150?img=14",
+      "first_name": "Astrid",
+      "birthday": "2021-07-07T21:55:53.385Z",
+      "desiredposition": "Ведущий операционный разработчик",
+      "work_city": "Тюмень",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Ершов Сбыт",
+          "date_from": "2021-04-30T09:21:19.036Z",
+          "date_to": "2022-01-03T15:28:30.508Z"
+        }
+      ],
+      "updated_at": "2022-01-03T08:20:42.524Z",
+      "selected": false
+    },
+    {
+      "id": 11,
+      "photo": "https://i.pravatar.cc/150?img=7",
+      "first_name": "Margret",
+      "birthday": "2021-01-25T01:02:38.207Z",
+      "desiredposition": "Центральный интеграционный специалист",
+      "work_city": "Новокузнецк",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Воробьев Трейд",
+          "date_from": "2021-05-04T08:50:09.108Z",
+          "date_to": "2022-01-02T16:29:21.899Z"
+        }
+      ],
+      "updated_at": "2022-01-03T01:58:06.830Z",
+      "selected": false
+    },
+    {
+      "id": 12,
+      "photo": "https://i.pravatar.cc/150?img=8",
+      "first_name": "Destiney",
+      "birthday": "2021-12-23T23:38:33.994Z",
+      "desiredposition": "Глобальный операционный дизайнер",
+      "work_city": "Махачкала",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Ильина Трейд",
+          "date_from": "2021-12-04T22:52:02.373Z",
+          "date_to": "2022-01-03T09:01:38.198Z"
+        }
+      ],
+      "updated_at": "2022-01-03T11:57:20.831Z",
+      "selected": false
+    },
+    {
+      "id": 13,
+      "photo": "https://i.pravatar.cc/150?img=3",
+      "first_name": "Anna",
+      "birthday": "2021-10-05T03:29:48.140Z",
+      "desiredposition": "Глобальный интеграционный планировщик",
+      "work_city": "Чебоксары",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Гусева, Авдеева and Горбунова",
+          "date_from": "2021-09-26T11:00:26.236Z",
+          "date_to": "2022-01-03T00:32:39.554Z"
+        }
+      ],
+      "updated_at": "2022-01-03T01:55:58.102Z",
+      "selected": false
+    },
+    {
+      "id": 14,
+      "photo": "https://i.pravatar.cc/150?img=0",
+      "first_name": "Bradford",
+      "birthday": "2021-10-31T22:50:57.195Z",
+      "desiredposition": "Международный функциональный менеджер",
+      "work_city": "Оренбург",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Герасимов - Шарапов",
+          "date_from": "2021-11-25T13:52:32.473Z",
+          "date_to": "2022-01-03T06:49:29.042Z"
+        }
+      ],
+      "updated_at": "2022-01-03T02:02:40.793Z",
+      "selected": false
+    },
+    {
+      "id": 15,
+      "photo": "https://i.pravatar.cc/150?img=6",
+      "first_name": "Michale",
+      "birthday": "2021-06-29T18:22:44.612Z",
+      "desiredposition": "Главный коммуникационный консультант",
+      "work_city": "Тольятти",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Давыдов - Степанов",
+          "date_from": "2021-04-27T11:54:10.863Z",
+          "date_to": "2022-01-03T01:48:45.348Z"
+        }
+      ],
+      "updated_at": "2022-01-03T03:47:24.871Z",
+      "selected": false
+    },
+    {
+      "id": 16,
+      "photo": "https://i.pravatar.cc/150?img=14",
+      "first_name": "Estel",
+      "birthday": "2021-01-20T13:24:25.168Z",
+      "desiredposition": "Региональный маркетинговый руководитель",
+      "work_city": "Пенза",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Шаров Снаб",
+          "date_from": "2021-03-03T19:13:43.554Z",
+          "date_to": "2022-01-03T07:13:32.432Z"
+        }
+      ],
+      "updated_at": "2022-01-02T20:52:31.049Z",
+      "selected": false
+    },
+    {
+      "id": 17,
+      "photo": "https://i.pravatar.cc/150?img=1",
+      "first_name": "Maximus",
+      "birthday": "2021-04-06T17:07:25.157Z",
+      "desiredposition": "Областной операционный помощник",
+      "work_city": "Хабаровск",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Лихачева, Кузьмина and Максимов",
+          "date_from": "2021-06-21T20:16:43.375Z",
+          "date_to": "2022-01-03T09:31:23.531Z"
+        }
+      ],
+      "updated_at": "2022-01-03T06:40:22.289Z",
+      "selected": false
+    },
+    {
+      "id": 18,
+      "photo": "https://i.pravatar.cc/150?img=9",
+      "first_name": "Tyson",
+      "birthday": "2021-03-01T21:20:43.937Z",
+      "desiredposition": "Генеральный логистический инженер",
+      "work_city": "Липецк",
+      "workexperience": [
+        {
+          "id": 1,
+          "company_name": "Журавлев Трейд",
+          "date_from": "2021-09-27T12:38:15.265Z",
+          "date_to": "2022-01-03T06:09:02.256Z"
+        }
+      ],
+      "updated_at": "2022-01-02T22:36:11.857Z",
       "selected": false
     },
     {
       "id": 19,
-      "photo": "https://cdn.fakercloud.com/avatars/hfalucas_128.jpg?random=1640948884362",
-      "first_name": "Hershel",
-      "birthday": "2021-05-28T15:38:56.532Z",
-      "desiredposition": "Районный оптимизационный инженер",
-      "work_city": "Самара",
+      "photo": "https://i.pravatar.cc/150?img=0",
+      "first_name": "Alta",
+      "birthday": "2021-09-24T03:34:49.277Z",
+      "desiredposition": "Международный коммуникационный разработчик",
+      "work_city": "Киров",
       "workexperience": [
         {
           "id": 1,
-          "company_name": "Лаврентьева - Семенов",
-          "date_from": "2021-06-22T23:30:49.198Z",
-          "date_to": "2021-12-31T17:45:54.051Z"
+          "company_name": "Сысоева, Миронова and Сергеев",
+          "date_from": "2021-01-16T17:41:50.335Z",
+          "date_to": "2022-01-02T19:28:12.061Z"
         }
       ],
-      "updated_at": "2022-01-01T04:17:00.831Z",
+      "updated_at": "2022-01-03T08:52:46.581Z",
       "selected": false
     }
   ]
